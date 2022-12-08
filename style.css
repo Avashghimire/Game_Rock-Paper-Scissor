@@ -1,0 +1,33 @@
+.header{
+    text-align: center;
+    background-color: rgb(3, 3, 0);
+    color: aliceblue;
+    height: 2ch;
+    align-items: center;
+    padding: 10mm;
+    font-size: 20mm;
+}
+*{
+    background-color: rgb(199, 158, 238);
+}
+
+#container{
+    text-align: center;
+    /* align-items: center; */
+    /* background-color: red; */
+    margin-top: 200px;
+}
+
+input{
+ font-size: 10mm;
+ background-color: rgb(16, 124, 124);
+ margin-right: 50px;
+}
+
+
+#result{
+    text-align: center;
+    font-size: 10mm;
+    background-color: brown;
+    margin-top:100px ;
+}
